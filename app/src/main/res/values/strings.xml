@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="name">Name: %s</string>
+    <string name="email">Email: %s</string>
+    <string name="gender">Género: %s</string>
+    <string name="age">Edad: %s</string>
+    <string name="city">Ciudad: %s</string>
+    <string name="loading">Cargando...</string>
+    <string name="failed">Failed!</string>
+</resources>
